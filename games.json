@@ -3,5 +3,45 @@
         "name": "Geometry Dash Lite",
         "slug": "geometry-dash-lite",
         "image": "/cache/data/image/game/geometry-dash-lite/geometry-dash-lite-m186x186.webp"
+    },
+    {
+        "name": "Wave Dash",
+        "slug": "wave-dash",
+        "image": "/cache/data/image/game/wave-dash/wave-dash-m186x186.webp"
+    },
+    {
+        "name": "Geometry Vibes",
+        "slug": "geometry-vibes",
+        "image": "/cache/data/image/game/geometry-vibes/geometry-vibes-m186x186.webp"
+    },
+    {
+        "name": "Geometry Wave Challenge",
+        "slug": "geometry-wave-challenge",
+        "image": "/cache/data/image/game/geometry-wave-challenges/geometry-wave-challenges-m186x186.webp"
+    },
+    {
+        "name": "Geometry Arrow",
+        "slug": "geometry-arrow",
+        "image": "/cache/data/image/game/geometry-arrow/geometry-arrow-m186x186.webp"
+    },
+    {
+        "name": "3Dash",
+        "slug": "3dash",
+        "image": "/cache/data/image/game/3dash/3dash-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash Gawne",
+        "slug": "geometry-dash-gawne",
+        "image": "/cache/data/image/game/geometry-dash-gawne/geometry-dash-gawne-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash Birthday Celebration",
+        "slug": "geometry-dash-birthday-celebration",
+        "image": "/cache/data/image/game/geometry-dash-birthday-celebration/geometry-dash-birthday-celebration-game-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash Way of the Darkness",
+        "slug": "geometry-dash-way-of-the-darkness",
+        "image": "/cache/data/image/game/geometry-dash-way-of-the-darkness/geometry-dash-way-of-the-darkness-game-m186x186.webp"
     }
 ]
